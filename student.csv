@@ -21,7 +21,7 @@ Timestamp,Name,RollNo,Age,Gender,SSC GPA,Caste,Standard,Year of joining,Most Fav
 03/01/2023 19:55:38,U. Sowjanya,19VD1A0534,20,Female,9.5,SC,B.TECH 4TH YEAR,2019,Kabaddi,Government Sector,Self Interest,Yes,Music,Critical Thinking & Problem Solving
 03/01/2023 20:09:00,Gaddam Sowmya,19VD1A0535,20,Female,9,SC,B.TECH 4TH YEAR,2019,BadMinton,Government Sector,Self Interest,No,Dance,Communication Skills
 03/01/2023 19:58:06,Podhili srinadh,19VD1A0537,20,Male,9.5,OBC,B.TECH 4TH YEAR,2019,Online Games,Private Sector,Self Interest,No,"Music, Books",Critical Thinking & Problem Solving
-04/01/2023 06:40:22,S Steve Augustine,19VD1A0539,21,Male,92.7,OC,B.TECH 4TH YEAR,2019,Cricket,Private Sector,Self Interest,Yes,"Sports, Music",Leadership
+04/01/2023 06:40:22,S Steve Augustine,19VD1A0539,21,Male,9.7,OC,B.TECH 4TH YEAR,2019,Cricket,Private Sector,Self Interest,Yes,"Sports, Music",Leadership
 03/01/2023 20:01:06,Gone Sumanth,19VD1A0540,22,Male,9.2,OBC,B.TECH 4TH YEAR,2019,Cricket,Private Sector,Self Interest,No,Sports,Logical thinking
 03/01/2023 21:07:04,Kodi Suprathika ,19VD1A0541,20,Female,9.3,OBC,B.TECH 4TH YEAR,2019,BadMinton,Government Sector,Self Interest,Yes,Music,Logical thinking
 03/01/2023 20:48:02,BOGOJU SUSHMA,19VD1A0542,21,Female,9,OBC,B.TECH 4TH YEAR,2019,Online Games,Private Sector,Self Interest,No,"Sports, Music, Books, Dance",Critical Thinking & Problem Solving
@@ -86,7 +86,7 @@ Timestamp,Name,RollNo,Age,Gender,SSC GPA,Caste,Standard,Year of joining,Most Fav
 27/12/2022 19:29:39,Pichuka Munishwari,21VD1A0525,19,Female,10,OBC,B.TECH 2ND YEAR,2021,BatMinton,Government Sector,Self Interest,No,Music,Communication Skills
 27/12/2022 18:58:31,K. Navya sree,21VD1A0528,19,Female,9,OBC,B.TECH 2ND YEAR,2021,Online Games,Private Sector,Self Interest,No,Music,Logical thinking
 27/12/2022 19:15:47,Kamera Pralekya,21VD1A0533,20,Female,7.3,SC,B.TECH 2ND YEAR,2021,Kabaddi,Government Sector,Self Interest,Yes,Music,Leadership
-27/12/2022 23:45:16,Praneeth Gundu,21VD1A0534,19,Male,408,OBC,B.TECH 2ND YEAR,2021,Cricket,Government Sector,Self Interest,No,Music,Critical Thinking & Problem Solving
+27/12/2022 23:45:16,Praneeth Gundu,21VD1A0534,19,Male,9.8,OBC,B.TECH 2ND YEAR,2021,Cricket,Government Sector,Self Interest,No,Music,Critical Thinking & Problem Solving
 27/12/2022 21:20:36,S Ramakrishna,21VD1A0537,19,Male,8,OBC,B.TECH 2ND YEAR,2020,Cricket,Private Sector,Self Interest,No,Books,Logical thinking
 03/01/2023 23:11:34,SAKETH LINGERKER,21VD1A0541,19,Male,9.5,OBC,B.TECH 2ND YEAR,2021,Online Games,Government Sector,Self Interest,No,"Sports, Arts, Books, Dance",Critical Thinking & Problem Solving
 03/01/2023 20:18:46,GOLLA SHARANYA,21VD1A0542,18,Female,9.5,OC,B.TECH 2ND YEAR,2021,Online Games,Private Sector,Self Interest,No,Music,Puzzle Solving
